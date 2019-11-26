@@ -17,7 +17,7 @@ const Example = (props) => {
               <NavLink href="/About">About</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">GitHub</NavLink>
+              <NavLink href="https://github.com/ProgrammingTitan/RaztecaGoods">GitHub</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="https://www.linkedin.com/in/paul-valenzuela-511b28187/">LinkedIn</NavLink>
